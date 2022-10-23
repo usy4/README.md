@@ -12,7 +12,22 @@
 </div>
 
 # My Server
-<iframe src="https://discord.com/widget?id=935680500058710016&theme=dark" width="300" height="450" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+<iframe
+src="https://discord.com/widget?id=935680500058710016&theme=dark" width="300" height="450" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+</iframe>
+</body>
+</html>
+
 
 # My Discord
 <a
