@@ -11,24 +11,6 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="30"/>
 </div>
 
-# My Server
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-<iframe
-src="https://discord.com/widget?id=935680500058710016&theme=dark" width="300" height="450" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-</iframe>
-</body>
-</html>
-
-
 # My Discord
 <a
 href="https://discord.com/users/380045837457162242" target="_blank">
